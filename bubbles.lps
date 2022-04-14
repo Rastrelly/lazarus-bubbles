@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="bubbles.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ububbles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos X="22" Y="116"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="119" Column="3" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="131" Column="3" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="81" Column="6" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="32" Column="15" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="124" Column="38" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="125" Column="38" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="143" Column="3" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="52" Column="23" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="173" Column="18" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="132" Column="119" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="120" Column="15" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="146" Column="43" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="168" Column="41" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="120" Column="6" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="112" Column="29" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="142" Column="17" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="143" Column="26" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="85" Column="30" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="109" Column="17" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="110" Column="26" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="165" Column="30" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="36" Column="22" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="121" Column="3" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="194" Column="23" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="90" Column="114" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="92" Column="114" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="131" Column="26" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="127" Column="55" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="118" Column="32" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="ububbles.pas"/>
+        <Caret Line="102" Column="13" TopLine="99"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
